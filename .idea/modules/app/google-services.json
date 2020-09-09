@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757816532296",
+    "firebase_url": "https://driver-booking-fb6ba.firebaseio.com",
+    "project_id": "driver-booking-fb6ba",
+    "storage_bucket": "driver-booking-fb6ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757816532296:android:d54d6378743a70ab83e77d",
+        "android_client_info": {
+          "package_name": "com.example.driverbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757816532296-l25e25mq58id6t768hj5tsea128f15og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driverbooking",
+            "certificate_hash": "d1cd127c7da4a93457fc634867c7bc9f7e4c018f"
+          }
+        },
+        {
+          "client_id": "757816532296-m8lkae80ssf0od37vvtvj1h52oai7oag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxD_pXOVUjtNX71CNS6ZZBaQxahSwvBds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757816532296-m8lkae80ssf0od37vvtvj1h52oai7oag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
